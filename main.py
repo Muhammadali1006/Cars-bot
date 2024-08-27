@@ -5,7 +5,7 @@ from aiogram import Dispatcher, Bot, filters, types, F
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
-bot = Bot(token="7331395047:AAFAtgw3_P_pxdfr7NfWcyyd2EhYgLphBMw")
+bot = Bot(token="7262787457:AAH5U0wR5IrfNEzBaHs17LuG8kLklcyNkec")
 dp = Dispatcher(bot=bot)
 
 main_button = ReplyKeyboardMarkup(keyboard=[
